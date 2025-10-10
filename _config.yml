@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Sofia Savoia
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Sofia Savoia
+description              : Sofia Savoia - Projects and CV 
+baseurl                  : "/fall2025-portfolio-Savoia"  
 
 # Theme and Style
 theme: jekyll-theme-minimal
