@@ -2,6 +2,7 @@
 layout: project
 title: Heat Exchanger Experiment
 description: Class project with Graphs
+technologies: N/A
 image: /assets/images/function-graph.png
 ---
 
