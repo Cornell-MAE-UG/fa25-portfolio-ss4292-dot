@@ -8,63 +8,45 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [ss4292D@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** 3322348487
+**Email:** [ss4292D@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** (332)-284-8487
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical engeineering. I am passionate about innovation and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering and Minor in Business*  
-  GPA: 3.8/4.0 | Graduation: May, 2028
+  GPA: 3.1/4.0 | Graduation: May, 2028
 
-- **[HAmerican Scholl of Milan]**  
+- **[American Scholl of Milan]**  
   *High School Diploma*  
   Graduation: [May, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Python 
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Welding  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Lifting Mechanism]**:  
+  *[The aim was to determine the ideal frame or mechanism configuration and dimensions to optimize lifting height and load capacity. It was assumed that the supports, bar, and actuator were all completely rigid structural components.]*  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **[Heat Exchanger]**:  
+  *[we examined a heat exchanger and how different types of flows into and out of the heat exchanger affect temperature changes in water. From our findings, I created a report to show what we observed.]*  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Pi Sigma Epsilon, Business Fraternity  
+- Volunteer for Heart Health
 
 ---
 
