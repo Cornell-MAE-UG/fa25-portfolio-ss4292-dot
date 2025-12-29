@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ENGRD 2020 Sketch
+title: Lifting Mechanism
 description: Sketch Drawing ENGRD 2020
 technologies: N/A
 image: assets/images/2020hw4.jpg
