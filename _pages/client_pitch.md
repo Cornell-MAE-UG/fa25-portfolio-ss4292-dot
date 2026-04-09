@@ -1,3 +1,7 @@
+layout: page
+title: Client Pitch
+permalink: /client-pitch/
+
 [Download my client pitch]({{ "assets/ODP 3_ PDF Formatted.pdf" | relative_url }}) in PDF format.
 
 **Problem Statement:**
