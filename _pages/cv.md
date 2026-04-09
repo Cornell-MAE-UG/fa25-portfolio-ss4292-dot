@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in mechanical engeineering
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering and Minor in Business*  
-  GPA: 3.1/4.0 | Graduation: May, 2028
+  Graduation: May, 2028
 
 - **[American Scholl of Milan]**  
   *High School Diploma*  
