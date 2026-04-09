@@ -43,17 +43,10 @@ An attachment to the front of the vehicle that has rotating brushes aimed at onl
 
 **How it would be used**
 
-
-Mount system to harvester front
-
-
-Attach height to match vine height
-
-
-Brushes rotate at speed matched to forward motion
-
-
-Flies are dislodged downward before grape collection
+- Mount system to harvester front
+- Attach height to match vine height
+- Brushes rotate at speed matched to forward motion
+- Flies are dislodged downward before grape collection
 
 
 ---
@@ -62,13 +55,9 @@ Flies are dislodged downward before grape collection
 **Why it’s better than the status quo:**
 
 
-Removes insects before contamination
-
-
-Avoids post-harvest filtering grapes and flies
-
-
-Compatible with current harvesting equipment
+- Removes insects before contamination
+- Avoids post-harvest filtering grapes and flies
+- Compatible with current harvesting equipment
 
 
 ---
