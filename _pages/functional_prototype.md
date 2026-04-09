@@ -22,8 +22,7 @@ permalink: /functional-prototype/
 
 **Design Intent:**
 
-
-assets/images/Screenshot 2026-04-09 at 14.44.00.png
+![Description]({{ "assets/images/Screenshot 2026-04-09 at 14.44.00.png" | relative_url }})
 Image 1 (left): Shaft with bearing at the bottom and cap notches
 Image 2 (middle): Shaft with bearing at the bottom and cap notches + brushes
 Image 3 (right): Shaft with bearing at the bottom and cap notches + brushes + cap
@@ -32,20 +31,17 @@ Image 3 (right): Shaft with bearing at the bottom and cap notches + brushes + ca
 
 
 **Instructions to Assemble Prototype:**
-
-
-    1. 3D print shaft with brush slots
-    2. Cut brushes to length (12in/304mm per brush)
-    3. Insert brushes into brush slots
-    4. Secure with cap
+1. 3D print shaft with brush slots
+2. Cut brushes to length (12in/304mm per brush)
+3. Insert brushes into brush slots
+4. Secure with cap
 
 
 
 ---
 **Design Tests Descriptions and Criteria:**
 
-
-assets/images/Screenshot 2026-04-09 at 14.47.12.png
+![Description]({{ "assets/images/Screenshot 2026-04-09 at 14.47.12.png" | relative_url }})
 
 ---
 
