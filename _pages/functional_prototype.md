@@ -3,7 +3,7 @@ layout: default
 title: Functional Prototype 
 permalink: /functional-prototype/
 ---
-{\LARGE Functional Prototype}
+## Functional Prototype
 
 [Download my functional prototype report]({{ "assets/Open Design Project 5_ Functional Prototype.pdf" | relative_url }}) in PDF format.
 
