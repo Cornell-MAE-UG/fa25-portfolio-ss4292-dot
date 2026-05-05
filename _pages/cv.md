@@ -40,7 +40,7 @@ Aspiring engineering student with a strong foundation in mechanical engeineering
   *[The aim was to determine the ideal frame or mechanism configuration and dimensions to optimize lifting height and load capacity. It was assumed that the supports, bar, and actuator were all completely rigid structural components.]*  
 
 - **[Heat Exchanger]**:  
-  *[we examined a heat exchanger and how different types of flows into and out of the heat exchanger affect temperature changes in water. From our findings, I created a report to show what we observed.]*  
+  *[We examined a heat exchanger and how different types of flows into and out of the heat exchanger affect temperature changes in water. From our findings, I created a report to show what we observed.]*  
 
 ---
 
