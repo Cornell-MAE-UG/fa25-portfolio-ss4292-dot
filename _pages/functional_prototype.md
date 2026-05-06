@@ -24,7 +24,9 @@ permalink: /functional-prototype/
 
 **Design Intent:**
 
-<img src="{{ '"assets/images/Screenshot 2026-04-09 at 14.44.00.png' | relative_url }}" width="50%">
+<p align="center">
+  <img src="{{ '"assets/images/Screenshot 2026-04-09 at 14.44.00.png' | relative_url }}" alt="description" width="50%">
+</p>
 Image 1 (left): Shaft with bearing at the bottom and cap notches
 Image 2 (middle): Shaft with bearing at the bottom and cap notches + brushes
 Image 3 (right): Shaft with bearing at the bottom and cap notches + brushes + cap
