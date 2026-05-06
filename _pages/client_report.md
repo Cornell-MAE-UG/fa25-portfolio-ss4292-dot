@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Client Pitch
+title: Client Report
 permalink: /client-report/
 ---
 ## Client Pitch
