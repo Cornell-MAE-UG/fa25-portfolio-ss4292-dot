@@ -68,5 +68,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 
 “Grapevines May Only Need Help to Survive Heavy Spotted Lanternfly Infestations | Penn State University.” 2017. Psu.edu. 2017. https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-heavy-spotted-lanternfly-infestations.
 
-Wright, Amy Beth. 2026. “The Science behind Vertical Shoot Positioning in Vineyards | SevenFifty Daily.” SevenFifty Daily. March 23, 2026. https://daily.sevenfifty.com/the-science-behind-vertical-shoot-positioning-in-vineyards/.
+
+Wright, Amy Beth. 2026. “The Science behind Vertical Shoot Positioning in Vineyards |
+SevenFifty Daily.” SevenFifty Daily. March 23, 2026. https://daily.sevenfifty.com/the-science-behind-vertical-shoot-positioning-in-vineyards/.
 
