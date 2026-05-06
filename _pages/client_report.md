@@ -74,6 +74,9 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 | Filament (estimate) &nbsp;&nbsp;| 947.6 g &nbsp;&nbsp;| $47.38 |
 | Motors &nbsp;&nbsp;| 2 motors &nbsp;&nbsp;| $145.28|
 
+| Running Total| Amount left | Starting Amount |
+| -------- | -------- | -------- |
+| $349.01 &nbsp;&nbsp;| $0.99 &nbsp;&nbsp;| $350.00 |
 
 
 *References:*
