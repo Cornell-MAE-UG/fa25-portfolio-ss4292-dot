@@ -55,7 +55,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 
 **Appendix**
 
-Bill of Materials:
+*Bill of Materials:*
 | Item | Quantity | Total Cost |
 | -------- | -------- | -------- |
 | 1 inch brushes | 12 brushes | $42.35 |
@@ -64,7 +64,7 @@ Bill of Materials:
 | Filament (estimate) | 947.6 grams| $47.38 |
 | Motors| 2 motors | $145.28|
 
-References:
+*References:*
 
 “Grapevines May Only Need Help to Survive Heavy Spotted Lanternfly Infestations | Penn State University.” 2017. Psu.edu. 2017. https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-heavy-spotted-lanternfly-infestations.
 
