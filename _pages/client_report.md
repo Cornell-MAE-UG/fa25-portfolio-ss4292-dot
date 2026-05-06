@@ -5,7 +5,7 @@ permalink: /client-report/
 ---
 ## Client Pitch
 
-[Download my client reprt]({{ "assets/T2_ Spotted Then Stopped Client Report.pdf" | relative_url }}) in PDF format.
+[Download my client report]({{ "assets/T2_ Spotted Then Stopped Client Report.pdf" | relative_url }}) in PDF format.
 
 
 **Context and Problem Statement**
