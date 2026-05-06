@@ -56,6 +56,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 **Appendix**
 
 *Bill of Materials:*
+
 | Item | Quantity | Total Cost |
 | -------- | -------- | -------- |
 | 1 inch brushes | 12 brushes | $42.35 |
