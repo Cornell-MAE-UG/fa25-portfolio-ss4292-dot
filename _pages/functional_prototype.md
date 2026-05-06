@@ -23,7 +23,7 @@ permalink: /functional-prototype/
 
 
 **Design Intent:**
-![alt text](<Screenshot 2026-05-06 at 00.07.41.png>)
+assets/images/Screenshot 2026-04-09 at 14.44.00.png
 
 Image 1 (left): Shaft with bearing at the bottom and cap notches
 Image 2 (middle): Shaft with bearing at the bottom and cap notches + brushes
@@ -42,7 +42,7 @@ Image 3 (right): Shaft with bearing at the bottom and cap notches + brushes + ca
 
 ---
 **Design Tests Descriptions and Criteria:**
-![alt text](<Screenshot 2026-05-06 at 00.07.50.png>)
+assets/images/Screenshot 2026-04-09 at 14.47.12.png
 
 ---
 
