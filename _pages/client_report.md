@@ -62,7 +62,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 | 1 inch brushes | 12 brushes | $42.35 |
 | 3 inch brushes| 12 brushes | $50.00 |
 | Bearings| 2 bearings | $64.00 |
-| Filament (estimate) | 947.6 grams| $47.38 |
+| Filament (est) | 947.6 g| $47.38 |
 | Motors| 2 motors | $145.28|
 
 *References:*
