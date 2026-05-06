@@ -3,7 +3,7 @@ layout: default
 title: Client Report
 permalink: /client-report/
 ---
-## Client Pitch
+## Client Report
 
 [Download my client report]({{ "assets/T2_ Spotted Then Stopped Client Report.pdf" | relative_url }}) in PDF format.
 
