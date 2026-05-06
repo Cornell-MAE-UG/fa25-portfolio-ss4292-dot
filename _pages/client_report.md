@@ -76,7 +76,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 
 <br>
 
-| Running Total &nbsp;&nbsp;| Amount left &nbsp;&nbsp;| Starting Amount &nbsp;&nbsp;|
+| Running Total &nbsp;&nbsp;&nbsp;| Amount left &nbsp;&nbsp;&nbsp;| Starting Amount &nbsp;&nbsp;&nbsp;|
 | -------- | -------- | -------- |
 | $349.01 &nbsp;&nbsp;| $0.99 &nbsp;&nbsp;| $350.00 |
 
