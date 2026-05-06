@@ -65,6 +65,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 | Filament (est) | 947.6 g| $47.38 |
 | Motors| 2 motors | $145.28|
 
+
 *References:*
 
 “Grapevines May Only Need Help to Survive Heavy Spotted Lanternfly Infestations | Penn State University.” 2017. Psu.edu. 2017. https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-heavy-spotted-lanternfly-infestations.
