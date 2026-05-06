@@ -75,6 +75,7 @@ Finally, the top and bottom brackets are aligned, and the full assembly is secur
 | Motors &nbsp;&nbsp;| 2 motors &nbsp;&nbsp;| $145.28|
 
 <br>
+
 | Running Total &nbsp;&nbsp;| Amount left &nbsp;&nbsp;| Starting Amount &nbsp;&nbsp;|
 | -------- | -------- | -------- |
 | $349.01 &nbsp;&nbsp;| $0.99 &nbsp;&nbsp;| $350.00 |
