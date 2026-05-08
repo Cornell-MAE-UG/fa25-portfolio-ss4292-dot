@@ -24,8 +24,7 @@ permalink: /functional-prototype/
 
 **Design Intent:**
 
-![alt text](../assets/images/shafts.png)
-<img src="../assets/images/shafts.png" width="200">
+<img src="../assets/images/shafts.png" width="400">
 
 Image 1 (left): Shaft with bearing at the bottom and cap notches \
 Image 2 (middle): Shaft with bearing at the bottom and cap notches + brushes \
@@ -44,7 +43,8 @@ Image 3 (right): Shaft with bearing at the bottom and cap notches + brushes + ca
 
 ---
 **Design Tests Descriptions and Criteria:**
-![alt text](../assets/images/table.png)
+
+<img src="../assets/images/table.png" width="400">
 ---
 
 **Design Test Results and Conclusions**
