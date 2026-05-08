@@ -8,6 +8,7 @@ permalink: /client-report/
 [Download my client report]({{ "assets/T2_ Spotted Then Stopped Client Report.pdf" | relative_url }}) in PDF format.
 
 
+
 **Context and Problem Statement**
 Due to limitations in the labour force, New York vineyard operators use mechanical harvesters rather than hand-picking grapes. This allows Spotted Lanternflies (SLF) to frequently enter harvester bins and contaminate the yield. A Cornell–Penn State study found that 60% of lanternflies on vines end up in harvester bins, and current standards require rejection if even 1–2 adult insects are found per 1 kg sample. This leads farmers to invest a season's worth of resources in a crop, only for it to be rejected due to late-stage contamination. Addressing this issue reduces uncertainty in harvest outcomes, allowing farmers to plan and allocate resources with greater confidence. It will also invariably lead to higher profits as fewer crops will be rejected due to contamination.
 
