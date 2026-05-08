@@ -44,9 +44,7 @@ Image 3 (right): Shaft with bearing at the bottom and cap notches + brushes + ca
 
 ---
 **Design Tests Descriptions and Criteria:**
-<p align="center">
-  <img src="./assets/images/table.png" width="400">
-</p>
+![alt text](../assets/images/table.png)
 ---
 
 **Design Test Results and Conclusions**
