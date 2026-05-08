@@ -19,7 +19,7 @@ Significantly disturbing the vine to remove SLF's proves a problem when harvesti
 
 **Final Prototype and Application**
 <br>
-![alt text](../assets/images/designs.png)
+![alt text](../assets/images/prototype.png)
 
 Our prototype consists of two motorized brushes that mount onto the front of a harvester. As the harvester travels through the field, it removes SLF from the vine moments before the grapes are harvested, ensuring no lanternflies contaminate the crop. Each attachment is modular in design, with key features being the shaft and the strip brushes. Shafts have been 3D printed with slots to hold strip brushes in place, allowing the quick and easy replacement of brushes without compromising on the snugness of fit. Shafts are also split into two parts, allowing farmers to adjust for different vine dimensions by simply changing the length of the brushes fitted in the shaft. The shafts are suspended by a top and bottom bracket, which attach to the front of the harvester.
 
