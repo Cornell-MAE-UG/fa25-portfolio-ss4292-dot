@@ -42,7 +42,7 @@ Overall, we recommend our design to continue to be developed, with improvements 
 <br>
 To test the validity of our success, we completed: a functional test, an assembly test, and a rupture test.
 
-*Functional test:*+
+*Functional test:*
 <img src="../assets/images/graph test.png" width="400">
 
 For the functional test we passed a tube through rotating brushes with different types of attachments, modeling the lantern flies. The attachments were differentiated by how strongly they stuck to the vine to evaluate different grip strengths. We also examined which orientation of brush rotation would be most effective in removing the most attachments. For the 3 different attachments, we found that outwards rotation was the most effective; therefore, this is what we used for our final design and what we recommend for harvesters. 
